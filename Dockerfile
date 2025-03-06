@@ -7,4 +7,4 @@ WORKDIR /app
 COPY . .
 
 # Esegui uno script Python (opzionale)
-CMD ["python", "-c", "print('Hello from Python Alpine!')"]
+CMD ["python", "-c", "print('Hello Master Renzo from Python Alpine!')"]
