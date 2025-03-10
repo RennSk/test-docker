@@ -7,4 +7,4 @@ WORKDIR /app
 COPY . .
 
 # Esegui uno script Python (opzionale)
-CMD ["python", "-c", "print('Hello Master Renzo from Python Alpine! Test TRIGGER')"]
+CMD ["python", "-c", "print('Hello Master Renzo from Python Alpine! Test TRIGGER 111')"]
